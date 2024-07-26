@@ -120,6 +120,18 @@ The app uses the OpenAPI specification to identify the appropriate API paths and
 **API Keys**: 
 Ensure that you have valid API keys for OpenAI and the weather API you are using. Replace the placeholders in the code with your actual API keys.
 
+## Graph Example
+
+Here is an example of the graph used in the application:
+
+![image](https://github.com/user-attachments/assets/31e3c4a0-8671-40c6-931f-bcdc42d1ee10)
+
+
+## Chatbot Example
+
+Here is an image of the chatbot interface:
+
+![image](https://github.com/user-attachments/assets/bf0c045d-5127-4939-8323-76d15ad8e8bb)
 
 
 
